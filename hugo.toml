@@ -1,0 +1,4 @@
+baseURL = "https://turmaxx.dev/"
+defaultContentLanguage = "en"
+title = "Brook Seyoum"
+theme = "blowfish"

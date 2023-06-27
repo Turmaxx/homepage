@@ -1,0 +1,67 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Brook Seyoum"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = ""
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Brook Seyoum"
+  image = "img/pfp.png"
+  headline = "doin everything like my shirt XL"
+  bio = "doin everything like my shirt XL"
+  links = [
+    { email = "mail.to:brooksolo@protonmail.me" },
+    { link = "https://beacons.ai/turmaxx/" },
+    { linkedin = "https://linkedin.com/in/brook-seyoum" },
+    { github = "https://github.com/turmaxx" },
+    { instagram = "https://instagram.com/bk_solo_" },
+    { youtube = "https://youtube.com/@bk_solo" },
+    { goodreads = "https://goodreads.com/users/userId-username" },
+    
+
+    # { discord = "https://discord.com/users/542720656513564682" },
+    # { telegram = "https://t.me/Turmaxx" },
+    # { gitlab = "https://gitlab.com/brook-seyoum" },
+    # { twitter = "https://twitter.com/bk_solo" },
+    # { stack-overflow = "https://stackoverflow.com/users/14614829/brook" },
+    # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+    # { apple = "https://www.apple.com" },
+    # { blogger = "https://username.blogspot.com/" },
+    # { codepen = "https://codepen.io/username" },
+    # { dev = "https://dev.to/username" },
+    # { dribbble = "https://dribbble.com/username" },
+    # { facebook = "https://facebook.com/username" },
+    # { flickr = "https://www.flickr.com/photos/username/" },
+    # { foursquare = "https://foursquare.com/username" },
+    # { google = "https://www.google.com/" },
+    # { hashnode = "https://username.hashnode.dev" },
+    # { keybase = "https://keybase.io/username" },
+    # { kickstarter = "https://www.kickstarter.com/profile/username" },
+    # { lastfm = "https://lastfm.com/user/username" },
+    # { mastodon = "https://mastodon.instance/@username" },
+    # { medium = "https://medium.com/username" },
+    # { microsoft = "https://www.microsoft.com/" },
+    # { orcid = "https://orcid.org/userid" },
+    # { patreon = "https://www.patreon.com/username" },
+    # { pinterest = "https://pinterest.com/username" },
+    # { reddit = "https://reddit.com/user/Brook_ETH" },
+    # { researchgate = "https://www.researchgate.net/profile/username" },
+    # { slack = "https://workspace.url/team/userid" },
+    # { snapchat = "https://snapchat.com/add/username" },
+    # { soundcloud = "https://soundcloud.com/username" },
+    # { steam = "https://steamcommunity.com/profiles/userid" },
+    # { tiktok = "https://tiktok.com/@username" },
+    # { tumblr = "https://username.tumblr.com" },
+    # { twitch = "https://twitch.tv/username" },
+    # { whatsapp = "https://wa.me/phone-number" },
+    # { ko-fi = "https://ko-fi.com/username" },
+  ]
