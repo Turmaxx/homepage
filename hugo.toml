@@ -1,4 +1,5 @@
-baseURL = "https://turmaxx.dev/"
+# baseURL = "https://turmaxx.dev/"
+baseURL = "https://tubular-cranachan-7c4e1b.netlify.app"
 defaultContentLanguage = "en"
 title = "Brook Seyoum"
 theme = "blowfish"
