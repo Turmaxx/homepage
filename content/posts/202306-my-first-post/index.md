@@ -6,7 +6,7 @@ draft: false
 
 # hello World!
 
-Blogging functionailty of this site is et and done thanks to [hugo](https://gohugo.io).
+Blogging functionailty of this site is set and done thanks to [hugo](https://gohugo.io).
 
 All that's left to do is some customization and to clean up my portfolio layout and display them on a dedicated page.
 
