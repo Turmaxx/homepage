@@ -17,17 +17,17 @@ title = "Brook Seyoum"
   name = "Brook Seyoum"
   image = "img/pfp.png"
   headline = "doin everything like my shirt XL"
-  bio = "doin everything like my shirt XL"
+  bio = "Software Engineer"
   links = [
-    { email = "mail.to:brooksolo@protonmail.me" },
+    { email = "mailto:brooksolo@protonmail.me" },
     { link = "https://beacons.ai/turmaxx/" },
     { linkedin = "https://linkedin.com/in/brook-seyoum" },
     { github = "https://github.com/turmaxx" },
-    { instagram = "https://instagram.com/bk_solo_" },
     { youtube = "https://youtube.com/@bk_solo" },
-    { goodreads = "https://goodreads.com/users/userId-username" },
+    { goodreads = "https://goodreads.com/brook-seyoum" },
     
 
+    # { instagram = "https://instagram.com/bk_solo_" },
     # { discord = "https://discord.com/users/542720656513564682" },
     # { telegram = "https://t.me/Turmaxx" },
     # { gitlab = "https://gitlab.com/brook-seyoum" },
