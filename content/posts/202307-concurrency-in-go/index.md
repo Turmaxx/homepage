@@ -18,7 +18,7 @@ Error handling is not directly addressed in any of these examples as well.
 
 {{< lead >}}
 Code for this post can be found at [GitHub](https://github.com/turmaxx/concurrency-abstractions-in-go) or [GitLab](https://gitlab.com/brook-seyoum/concurrency-abstractions-in-go).
-{{< lead >}}
+{{< /lead >}}
 
 ## Go Concurrency Fundamentals
 
