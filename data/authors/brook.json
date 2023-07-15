@@ -1,0 +1,15 @@
+{
+    "name": "Brook Seyoum",
+    "image" : "img/pfp.png",
+    "bio": "Software Engineer",
+    "social": [
+        { "linkedin": "https://linkedin.com/in/brook-seyoum" },
+        { "twitter": "https://twitter.com/bk_solo" },
+        { "instagram": "https://instagram.com/bk_solo_" },
+        { "github": "https://github.com/turmaxx" },
+        { "gitlab": "https://gitlab.com/brook-seyoum" },
+        { "goodreads": "http://goodreads.com/brook-seyoum" },
+        { "keybase": "https://keybase.io/bk_solo" },
+        { "reddit": "https://reddit.com/user/Brook_ETH" }
+    ]
+}

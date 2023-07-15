@@ -1,0 +1,15 @@
+{
+    "name": "Second Author",
+    "image" : "img/author2.png",
+    "bio": "Second Author Bio",
+    "social": [
+        { "linkedin": "https://linkedin.com/in/seondAuthor" },
+        { "twitter": "https://twitter.com/seondAuthor" },
+        { "instagram": "https://instagram.com/seondAuthor" },
+        { "medium": "https://medium.com/@seondAuthor" },
+        { "github": "https://github.com/seondAuthor" },
+        { "goodreads": "http://goodreads.com/seondAuthor" },
+        { "keybase": "https://keybase.io/seondAuthor" },
+        { "reddit": "https://reddit.com/user/seondAuthor" }
+    ]
+}
