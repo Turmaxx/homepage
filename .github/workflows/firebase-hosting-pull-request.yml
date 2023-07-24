@@ -28,5 +28,6 @@ jobs:
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_BROOK_S_HOMEPAGE }}'
-          channelId: live
+          expires: 30d
+          channelId: preview
           projectId: brook-s-homepage
