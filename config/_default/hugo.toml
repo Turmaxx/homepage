@@ -4,7 +4,6 @@
 
 # baseURL = "https://brook-s-homepage.web.app"
 defaultContentLanguage = "en"
-title = "Brook Seyoum"
 theme = "blowfish"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
