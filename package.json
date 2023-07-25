@@ -23,7 +23,6 @@
   "readme": "https://github.com/turmaxx/homepage#read",
 
   "dependencies": {
-    "firebase": "^9.23.0",
     "firebase-tools": "^12.4.1"
   }
 }
