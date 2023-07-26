@@ -7,10 +7,10 @@ title = "Brook Seyoum"
   displayName = "EN"
   isoCode = "en"
   rtl = false
-  dateFormat = ""
+  dateFormat = "January 2 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "Personal Website and Blog | Brook Seyoum"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
