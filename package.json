@@ -2,7 +2,7 @@
   "author": "Brook Seyoum",
   "license": "MIT",
   "name": "homepage",
-  "description": "Brook Seyoum personal homepage and blog",
+  "description": "Personal Website and Blog | Brook Seyoum",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,7 @@
   "readme": "https://github.com/turmaxx/homepage#read",
 
   "dependencies": {
+    "auto-changelog": "^2.4.0",
     "firebase-tools": "^12.4.1"
   }
 }
