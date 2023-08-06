@@ -24,7 +24,7 @@ jobs:
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Build
-        run: ./compile-dev.sh
+        run: make preview
 
       - name: Deploy preview
         uses: FirebaseExtended/action-hosting-deploy@v0
