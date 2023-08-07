@@ -6,8 +6,8 @@ title = "Brook Seyoum"
 [params]
   displayName = "EN"
   isoCode = "en"
-  rtl = false
   dateFormat = "January 2 2006"
+	rtl = false
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Personal Website and Blog | Brook Seyoum"
@@ -16,21 +16,20 @@ title = "Brook Seyoum"
 [author]
   name = "Brook Seyoum"
   image = "img/pfp.png"
-  headline = "doin everything like my shirt XL"
+  headline = "Software Engineer, Hacker, Linux, FOSS"
   bio = "Software Engineer"
   links = [
-    { email = "mailto:brooksolo@protonmail.me" },
-    { link = "https://beacons.ai/turmaxx/" },
     { linkedin = "https://linkedin.com/in/brook-seyoum" },
     { github = "https://github.com/turmaxx" },
-    { youtube = "https://youtube.com/@bk_solo" },
+    { gitlab = "https://gitlab.com/brook-seyoum" },
+    { link = "https://beacons.ai/turmaxx/" },
+    { email = "mailto:brooksolo@protonmail.me" },
+    { discord = "https://discord.com/users/542720656513564682" },
+    { telegram = "https://t.me/Turmaxx" },
     { goodreads = "https://goodreads.com/brook-seyoum" },
     
-
+    # { youtube = "https://youtube.com/@bk_solo" },
     # { instagram = "https://instagram.com/bk_solo_" },
-    # { discord = "https://discord.com/users/542720656513564682" },
-    # { telegram = "https://t.me/Turmaxx" },
-    # { gitlab = "https://gitlab.com/brook-seyoum" },
     # { twitter = "https://twitter.com/bk_solo" },
     # { stack-overflow = "https://stackoverflow.com/users/14614829/brook" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
