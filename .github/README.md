@@ -4,7 +4,7 @@
 
 [![Deploy Production](https://github.com/turmaxx/homepage/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/turmaxx/homepage/actions/workflows/firebase-hosting-merge.yml) [![PR Deploy Preview](https://github.com/turmaxx/homepage/actions/workflows/firebase-hosting-pull-request.yml/badge.svg)](https://github.com/turmaxx/homepage/actions/workflows/firebase-hosting-pull-request.yml)
 
-Repo for my personal homepage with everything I've been up to, and where I write about stuff I am interested in. Decided to make this repo public so that people can suggest edits and comment to articles using github.
+Repo for my personal homepage with everything I've been up to, and where I write about stuff I am interested in. Decided to make this repo public so that people can view the source code and sugges edits and comment to articles using github.
 
 Powered by: [Blowfish](https://github.com/nunocoracao/blowfish)
 
@@ -15,9 +15,10 @@ These are the tools that I've used to build this...
 | :------------- | :----------: |
 | Language       | [Go](https://go.dev/) |
 | Framework      | [Hugo](https://gohugo.io) |
-| Container      | [Docker](https://docker.com) | 
+| Container      | [Nix](https://nixos.org/explore) | 
 | Theme          | [Blowfish](https://github.com/nunocoracao/blowfish) |
 | Hosting        | [Firebase](https://firbase.google.com) |
+| Hosting        | [Cloudflare](https://dash.cloudflare.com) |
 
 <!-- 
 - [Go 🦫](https://https://go.dev)
