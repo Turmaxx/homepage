@@ -16,7 +16,7 @@ title = "Brook Seyoum"
 [author]
   name = "Brook Seyoum"
   image = "img/pfp.png"
-  headline = "Software Engineer, Hacker, Linux, FOSS"
+  headline = "CS Undergraduate | Linux Enthusiast | NixOS | SWE & SRE"
   bio = "Software Engineer"
   links = [
     { linkedin = "https://linkedin.com/in/brook-seyoum" },
@@ -35,6 +35,7 @@ title = "Brook Seyoum"
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { blogger = "https://username.blogspot.com/" },
+    # { codeberg = "https://codeberg.org/turmaxx" },
     # { codepen = "https://codepen.io/username" },
     # { dev = "https://dev.to/username" },
     # { dribbble = "https://dribbble.com/username" },
