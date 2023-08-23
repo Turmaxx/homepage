@@ -1,27 +1,23 @@
 {
   description = "Personal Homepage & Blog | Brook Seyoum";
 
-  inputs.nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
+  inputs = {
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
+    flake-utils.url = "github:numtide/flake-utils";
+  };
 
-  outputs = { self, nixpkgs }:
-    let
-      system = "x86_64-linux";
-      # system = "x86_64-darwin;"
-      pkgs = nixpkgs.legacyPackages.${system};
-    in
-    {
-      devShells.${system}.default =
-        pkgs.mkShell
-          {
-            buildInputs = with pkgs; [
-              hugo
-            ];
-            shellHook = ''
-              hugo version
-            '';
-          };
-      app.serve.program = "${pkgs.writeShellScript "serve" ''
-        make serve
-      ''}";
-    };
+  outputs = { self, nixpkgs, flake-utils }:
+    flake-utils.lib.eachDefaultSystem (system: 
+      let pkgs = nixpkgs.legacyPackages.${system}; in with pkgs;
+      {
+        devShells.default = mkShell {
+          buildInputs = [
+            hugo
+          ];
+          shellHook = ''
+            hugo version
+          '';
+        };
+      }
+    );
 }
