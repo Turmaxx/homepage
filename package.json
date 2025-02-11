@@ -24,6 +24,6 @@
 
   "dependencies": {
     "auto-changelog": "^2.4.0",
-    "firebase-tools": "^12.4.1"
+    "firebase-tools": "^13.6.0"
   }
 }
