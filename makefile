@@ -7,3 +7,7 @@ preview:
 	hugo -D -E -F --baseURL https://brook-s-homepage.web.app
 serve:
 	hugo server -D
+submodule-clone:
+	git clone --recurse-submodules git@github.com:Turmaxx/homepage.git
+submodule-update:
+	git submodule foreach git pull
