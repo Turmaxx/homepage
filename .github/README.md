@@ -17,7 +17,6 @@ These are the tools that I've used to build this...
 | Framework      | [Hugo](https://gohugo.io) |
 | Container      | [Nix](https://nixos.org/explore) | 
 | Theme          | [Blowfish](https://github.com/nunocoracao/blowfish) |
-| Hosting        | [Firebase](https://firbase.google.com) |
 | Hosting        | [Cloudflare](https://dash.cloudflare.com) |
 
 <!-- 
