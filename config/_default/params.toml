@@ -130,7 +130,7 @@ smartTOCHideUnfocusedChildren = false
 [buymeacoffee]
   identifier = "turmaxx"
   globalWidget = true
-  globalWidgetMessage = "pssst over here"
+  globalWidgetMessage = ""
   globalWidgetColor = "#5F7FFF"#FFDD00#5F7FFF
   globalWidgetPosition = "Right"
 
